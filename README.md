@@ -1,5 +1,5 @@
 # Word2Vec-ile-Yorum-Analizi-ve-Siniflandirma
-# Türkçe Mağaza Yorumları için Duygu Analizi
+# Türkçe Yorumlar için Duygu Analizi
 
 Bu proje, Türkçe mağaza yorumlarını analiz etmek ve yorumların duygu durumunu (**Olumlu**, **Olumsuz**, **Tarafsız**) sınıflandırmak için geliştirilmiştir. Doğal Dil İşleme (NLP) teknikleri ve Word2Vec yöntemi kullanılarak, veriler vektörleştirilmiş ve bir yapay sinir ağı (ANN) ile sınıflandırılmıştır.
 
